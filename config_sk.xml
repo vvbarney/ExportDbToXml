@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ExportDbToXml</name>
+	<displayName><![CDATA[Export database to XML]]></displayName>
+	<version><![CDATA[1.1.3]]></version>
+	<description><![CDATA[Export prestashop database to XML]]></description>
+	<author><![CDATA[Exalogic s.r.o., Vladimir Iricek]]></author>
+	<tab><![CDATA[export]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
